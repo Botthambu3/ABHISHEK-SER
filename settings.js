@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['919074692450'] //ur owner number
-global.ownernomer = "919074692450" //ur owner number2
-global.ownername = "ABHISHEK SURESH"//ur owner name
-global.ytname = "YT: Comedy Melody CH" //ur yt chanel name
-global.socialm = "GitHub: AbhishekSuresh2" //ur github or insta name
-global.location = "India, Idukki, Kerala" //ur location
+global.owner = ['918281370840'] //ur owner number
+global.ownernomer = "918281370840" //ur owner number2
+global.ownername = "UCHIHA THAMBU"//ur owner name
+global.ytname = "YT: UCHIHA THAMBU" //ur yt chanel name
+global.socialm = "GitHub: Botthambu3" //ur github or insta name
+global.location = "India, kannur, Kerala" //ur location
 
 //new
-global.botname = "ABHISHEK-SER"
-global.ownernumber = '919074692450'
-global.ownername = 'ABHISHEK SURESH'
-global.ownerNumber = ["919074692450@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@comedymelodych8468"
-global.websitex = "https://youtu.be/7FJBXptnUu4"
-global.wagc = "https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD"
+global.botname = "UCHIHA_THAMBU"
+global.ownernumber = '918281370840'
+global.ownername = 'UCHIHA THAMBU'
+global.ownerNumber = ["918281370840@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@achusmediatech7825"
+global.websitex = "https://youtube.com/@achusmediatech7825"
+global.wagc = "https://chat.whatsapp.com/CVkzNCfChahFWJ0qzdlYWH"
 global.themeemoji = '🎐'
-global.wm = "ABHISHEK-SER Inc."
-global.botscript = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' //script link
-global.packname = "ABHISHEK-SER👻ABHISHEK SURESH"
-global.author = "ABHISHEK SURESH\n\n919074692450"
-global.creator = "919074692450@s.whatsapp.net"
+global.wm = "UCHIHA_THAMBU Inc."
+global.botscript = 'https://github.com/Botthambu3' //script link
+global.packname = "UCHIHA THAMBU"
+global.author = "UCHIHA THAMBU\n\n918281370840"
+global.creator = "918281370840@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
